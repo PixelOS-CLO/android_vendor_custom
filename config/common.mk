@@ -70,7 +70,8 @@ endif
 PRODUCT_PACKAGES += \
     FrameworkOverlayCustom \
     GoogleDialerOverlayCustom \
-    SettingsOverlayCustom
+    SettingsOverlayCustom \
+    SystemUIOverlayCustom
 
 # Quick Tap
 ifneq ($(TARGET_SUPPORTS_QUICK_TAP),false)
