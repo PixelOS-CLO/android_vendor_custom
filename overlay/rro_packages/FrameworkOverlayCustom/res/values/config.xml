@@ -25,4 +25,8 @@
 
     <!-- Maximum velocity to initiate a fling, as measured in dips per second. -->
     <dimen name="config_viewMaxFlingVelocity">12000dp</dimen>
+
+    <!-- The minimum number of visible recent tasks to be presented to the user through the
+         SystemUI. Can be -1 if there is no minimum limit. -->
+    <integer name="config_minNumVisibleRecentTasks">30</integer>
 </resources>
