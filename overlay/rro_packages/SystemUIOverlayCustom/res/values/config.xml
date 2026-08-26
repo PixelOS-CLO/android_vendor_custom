@@ -16,7 +16,8 @@
          increase the rate of unintentional unlocks. -->
     <bool name="config_lockscreenAntiFalsingClassifierEnabled">false</bool>
 
-    <!-- Display Volte icon -->
+    <!-- Display IMS icons -->
     <bool name="config_display_volte">false</bool>
+    <bool name="config_display_vowifi">false</bool>
 
 </resources>
