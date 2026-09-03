@@ -20,4 +20,7 @@
     <bool name="config_display_volte">false</bool>
     <bool name="config_display_vowifi">false</bool>
 
+    <!-- Control whether to show Wifi standard in Wifi icon -->
+    <bool name="config_show_wifi_standard">false</bool>
+
 </resources>
