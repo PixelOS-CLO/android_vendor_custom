@@ -5,6 +5,7 @@ prebuilt_media {
     src: select(soong_config_variable("vendor_custom", "bootanimation_res"), {
         "720": "bootanimation_720.zip",
         "1080": "bootanimation_1080.zip",
+        "1272": "bootanimation_1272.zip",
         "1440": "bootanimation_1440.zip",
         default: "bootanimation_1080.zip",
     }),
